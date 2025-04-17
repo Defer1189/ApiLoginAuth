@@ -28,7 +28,7 @@ API REST para registro, inicio de sesión y autenticación con JWT usando Node.j
 
 ✔ Registro exitoso 
 
-![Usuario ya existe](./PruebaRegistroPostman.png)
+![Registro exitoso](./PruebaRegistroPostman.png)
 Resultado: El usuario se registra correctamente y se devuelve un token JWT.
 
 
